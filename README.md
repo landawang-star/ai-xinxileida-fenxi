@@ -45,7 +45,7 @@
 ### 1. 克隆仓库到 Claude Code 的 skills 目录
 
 ```bash
-git clone https://github.com/landawang-star/baokuan-duanshipin-chaijie.git ~/.claude/skills/人工智能信息雷达分析助手
+git clone https://github.com/landawang-star/ai-xinxileida-fenxi.git ~/.claude/skills/人工智能信息雷达分析助手
 ```
 
 ### 2. 部署到你的 Agent
